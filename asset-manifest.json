@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/home/static/css/main.778eeed7.css",
+    "main.js": "/home/static/js/main.45047d63.js",
+    "static/js/787.4b24f717.chunk.js": "/home/static/js/787.4b24f717.chunk.js",
+    "static/media/hashirshoaeb.png": "/home/static/media/hashirshoaeb.23e8b5a1f7de87f03d05.png",
+    "static/media/passport_photo.jpg": "/home/static/media/passport_photo.44e9176cff29a9ef0363.jpg",
+    "index.html": "/home/index.html",
+    "main.778eeed7.css.map": "/home/static/css/main.778eeed7.css.map",
+    "main.45047d63.js.map": "/home/static/js/main.45047d63.js.map",
+    "787.4b24f717.chunk.js.map": "/home/static/js/787.4b24f717.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.778eeed7.css",
+    "static/js/main.45047d63.js"
+  ]
+}
